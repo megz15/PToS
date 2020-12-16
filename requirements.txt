@@ -1,0 +1,5 @@
+msedge_selenium_tools==3.141.3
+requests==2.25.0
+beautifulsoup4==4.9.3
+Pillow==8.0.1
+PySimpleGUI==4.32.1
