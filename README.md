@@ -5,7 +5,8 @@ Made for a school project. We had to make a program using different modules. I'v
 It'll calculate prices for the product searched by user in different stores (Amazon.in, Flipkart.com, AliExpress.com, eBay.com) and display the products in a listbox in any one of three ways (Low to high, High to low and Featured(randomized)) along with other useful info (price, shipping price, shipping date, origin country, ratings, reviews, special deals).<br>
 It can also bar products with ratings lower than a certain rating, prices higher than a certain price or without free shipping from being displayed.
 ## Image
-![ScoUT](ss1.png)
+![PToS main screen](ss1.png)
+![PToS usage](out.gif)
 ## REQUIREMENTS:
 None if you use the .exe, if you want to run the py file -><br>
 1. [Python 3](https://www.python.org/downloads/): I use 3.9
